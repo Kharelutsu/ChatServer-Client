@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="action_chat">Chat</string>
+    <string name="action_users">Users</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_help">Help</string>
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">We are in user fragment</string>
+</resources>
